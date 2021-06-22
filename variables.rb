@@ -1,4 +1,5 @@
 'This is data, it is a string. Strings start with " "'
+greeting = "Hello World"
 
 "Part of being data, or a string, is that ruby doesn't interpret it."
 
